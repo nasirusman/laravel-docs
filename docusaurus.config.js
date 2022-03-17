@@ -42,6 +42,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'google-site-verification', content: '57bv-t8OieOZrKRjVnw9COSZJDLHNDGUOaxsZaG1f3s'}],
       navbar: {
         title: 'Laravel Docs',
         logo: {
